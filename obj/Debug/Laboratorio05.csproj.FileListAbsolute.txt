@@ -1,0 +1,11 @@
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\bin\Debug\Laboratorio05.exe.config
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\bin\Debug\Laboratorio05.exe
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\bin\Debug\Laboratorio05.pdb
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\obj\Debug\Laboratorio05.csproj.AssemblyReference.cache
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\obj\Debug\Laboratorio05.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\obj\Debug\Laboratorio05.Form1.resources
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\obj\Debug\Laboratorio05.Properties.Resources.resources
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\obj\Debug\Laboratorio05.csproj.GenerateResource.cache
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\obj\Debug\Laboratorio05.csproj.CoreCompileInputs.cache
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\obj\Debug\Laboratorio05.exe
+C:\Users\PC Nilo Worker\Desktop\POO.C#\Laboratorio05\obj\Debug\Laboratorio05.pdb
